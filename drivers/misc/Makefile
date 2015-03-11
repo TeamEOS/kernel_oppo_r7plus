@@ -79,3 +79,4 @@ obj-$(CONFIG_SN3193_SLED)  += shineled/
 obj-$(CONFIG_KTD2026_SLED)  += ktd_shineled/
 # endif
 
+obj-$(CONFIG_UID_CPUTIME) += uid_cputime.o
